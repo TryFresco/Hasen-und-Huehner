@@ -18,7 +18,7 @@ namespace SortingExample
 
             int Tiere = Convert.ToInt32(Tier);
 
-            Console.WriteLine("Bitte geben Sie jetzt noch die Anzahl Beine ein, die Sie gezählt haben, Sie Dummkopf von einem Bauer. Danke!");
+            Console.WriteLine("Bitte geben Sie jetzt noch die Anzahl Beine ein.");
 
             string Bein = Console.ReadLine();
 
